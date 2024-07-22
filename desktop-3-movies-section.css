@@ -1,0 +1,950 @@
+.movies2 {
+  position: absolute;
+  top: 366px;
+  left: 671px;
+  font-size: var(--font-size-21xl);
+  color: #7b0909;
+}
+.movies3 {
+  color: var(--color-firebrick-100);
+}
+.entertainment-art-container {
+  position: absolute;
+  top: 447px;
+  left: 24px;
+  display: inline-block;
+  width: 1349px;
+  height: 29px;
+}
+.movies4 {
+  position: absolute;
+  top: 764px;
+  left: 26px;
+  color: var(--color-maroon-100);
+}
+.anora-trailer-mikey {
+  margin: 0;
+}
+.anora-trailer-mikey-container {
+  position: absolute;
+  top: 820px;
+  left: 19px;
+}
+.priyadarshi-i-was-container {
+  position: absolute;
+  top: 552px;
+  left: 24px;
+}
+.fantasmas-series-review-container {
+  position: absolute;
+  top: 1328px;
+  left: 19px;
+}
+.sangeetha-devi-dundoo {
+  position: absolute;
+  top: 675px;
+  left: 26px;
+  display: inline-block;
+  width: 319px;
+  height: 42px;
+}
+.desktop-3-movies-section-child {
+  position: absolute;
+  top: 731.5px;
+  left: 25.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 347px;
+  height: 1px;
+}
+.the-hindu-bureau1 {
+  position: absolute;
+  top: 967px;
+  left: 19px;
+}
+.desktop-3-movies-section-item {
+  position: absolute;
+  top: 1032.5px;
+  left: 18.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 341px;
+  height: 1px;
+}
+.image-1-icon,
+.movies5 {
+  position: absolute;
+  left: 26px;
+}
+.image-1-icon {
+  top: 1073px;
+  width: 300px;
+  height: 168px;
+  object-fit: cover;
+}
+.movies5 {
+  top: 1272px;
+  color: var(--color-maroon-100);
+}
+.image-2-icon,
+.pallavi-keswani {
+  position: absolute;
+  top: 1458px;
+  left: 22px;
+}
+.image-2-icon {
+  top: 503px;
+  left: 392px;
+  width: 703px;
+  height: 570px;
+  object-fit: cover;
+}
+.glen-powell-and {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.twisters-cast-interview-container {
+  position: absolute;
+  top: 1179px;
+  left: calc(50% - 173.5px);
+  display: inline-block;
+  width: 378px;
+  height: 121px;
+}
+.movies6 {
+  position: absolute;
+  top: 1111px;
+  left: 694px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-maroon-100);
+}
+.actors-glen-powell {
+  position: absolute;
+  top: 1331px;
+  left: calc(50% - 285.5px);
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 644px;
+  height: 141px;
+}
+.movies7,
+.the8 {
+  position: absolute;
+}
+.movies7 {
+  top: 512px;
+  left: 26px;
+  color: var(--color-maroon-100);
+}
+.the8 {
+  top: 0;
+  left: 300px;
+  font-size: var(--font-size-77xl);
+}
+.desktop-3-movies-section-child1,
+.desktop-3-movies-section-inner {
+  position: absolute;
+  top: 197px;
+  left: 19px;
+  width: 206px;
+  height: 1.1px;
+  object-fit: contain;
+}
+.desktop-3-movies-section-child1 {
+  top: 198px;
+  left: 1197px;
+  width: 130px;
+  height: 1.2px;
+}
+.olympics2 {
+  white-space: pre-wrap;
+}
+.search6 {
+  color: var(--color-darkgray-100);
+}
+.olympics-data-container2 {
+  position: absolute;
+  top: 240px;
+  left: 72px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-firebrick-100);
+}
+.budget-20242,
+.e-paper2,
+.india8,
+.movies8,
+.the9 {
+  position: absolute;
+  font-size: var(--font-size-15xl);
+}
+.india8 {
+  top: 148px;
+  left: 23px;
+  display: inline-block;
+  width: 214px;
+  height: 31.2px;
+}
+.budget-20242,
+.e-paper2,
+.movies8,
+.the9 {
+  top: 143px;
+  left: 609px;
+}
+.budget-20242,
+.e-paper2,
+.the9 {
+  top: 142px;
+  left: 904px;
+  display: inline-block;
+  width: 264px;
+  height: 31px;
+}
+.e-paper2,
+.the9 {
+  top: 133px;
+  left: 1197px;
+  width: 168px;
+}
+.the9 {
+  top: 5px;
+  left: 0;
+  font-size: var(--font-size-61xl);
+  width: 193.2px;
+  height: 83.3px;
+}
+.the-hindu-logonew-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 230.2px;
+  width: 249px;
+  height: 88.2px;
+  object-fit: cover;
+}
+.hindu8,
+.the-hindu7 {
+  position: absolute;
+  top: 145.2px;
+  left: 27.1px;
+  display: inline-block;
+  width: 124.5px;
+  height: 33.3px;
+}
+.hindu8 {
+  top: 10.9px;
+  left: 488.1px;
+  font-size: var(--font-size-61xl);
+  width: 337px;
+  height: 83.3px;
+}
+.footer-child25 {
+  position: absolute;
+  top: 7.9px;
+  left: 1185.8px;
+  border-radius: var(--br-8xs);
+  width: 234.6px;
+  height: 71.4px;
+}
+.app-store4 {
+  position: absolute;
+  top: 43.6px;
+  left: 1292.6px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 113.7px;
+  height: 23.8px;
+}
+.apple-logo-icon4 {
+  position: absolute;
+  top: 11.9px;
+  left: 1196px;
+  width: 59.4px;
+  height: 62.5px;
+  object-fit: cover;
+}
+.download-on-the4 {
+  position: absolute;
+  top: 18.8px;
+  left: 1283.4px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  display: inline-block;
+  width: 122.9px;
+  height: 16.9px;
+}
+.footer-child26 {
+  position: absolute;
+  top: 5.9px;
+  left: 917.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 234.6px;
+  height: 71.4px;
+}
+.google-playstore-icon4 {
+  position: absolute;
+  top: 6.9px;
+  left: 930px;
+  width: 60.9px;
+  height: 69.4px;
+  object-fit: cover;
+}
+.get-it-on3 {
+  position: absolute;
+  top: 16.9px;
+  left: 1027.6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  display: inline-block;
+  width: 81.4px;
+  height: 29.7px;
+}
+.footer-child27,
+.footer-child28,
+.footer-child29 {
+  position: absolute;
+  top: 133.3px;
+  left: 27.1px;
+  width: 202.8px;
+  height: 0.1px;
+  object-fit: contain;
+}
+.footer-child28,
+.footer-child29 {
+  top: 132.8px;
+  left: 340.3px;
+}
+.footer-child29 {
+  top: 131.4px;
+  left: 1195.5px;
+}
+.google-play4 {
+  position: absolute;
+  top: 47.6px;
+  left: 1006.3px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 123.9px;
+  height: 22.8px;
+}
+.footer-child30,
+.footer-child31 {
+  position: absolute;
+  top: 131.4px;
+  left: 933.5px;
+  width: 202.8px;
+  height: 0.1px;
+  object-fit: contain;
+}
+.footer-child31 {
+  left: 640.4px;
+}
+.business2,
+.other-products3 {
+  position: absolute;
+  top: 144.3px;
+  left: 340.3px;
+  display: inline-block;
+  width: 155.6px;
+  height: 19.4px;
+}
+.business2 {
+  top: 143.4px;
+  left: 645.4px;
+  width: 96.4px;
+  height: 20.4px;
+}
+.about-us4,
+.news-archive4,
+.sitemap4,
+.states4 {
+  position: absolute;
+  top: 147.1px;
+  left: 933.5px;
+  display: inline-block;
+  width: 111.4px;
+  height: 33.3px;
+}
+.about-us4,
+.news-archive4,
+.sitemap4 {
+  top: 190.6px;
+  left: 27.1px;
+  width: 99.4px;
+  height: 25px;
+}
+.news-archive4,
+.sitemap4 {
+  top: 360.8px;
+  left: 29.1px;
+}
+.news-archive4 {
+  top: 305.3px;
+  width: 139.5px;
+  height: 22.2px;
+}
+.code-of-editorial4,
+.images4,
+.step4,
+.trending-on-the2 {
+  position: absolute;
+  top: 248.8px;
+  left: 27.1px;
+  display: inline-block;
+  width: 240.9px;
+  height: 22.2px;
+}
+.images4,
+.step4,
+.trending-on-the2 {
+  top: 147.8px;
+  left: 1191px;
+  width: 234.9px;
+}
+.images4,
+.step4 {
+  top: 291.4px;
+  left: 345.3px;
+  width: 99.4px;
+  height: 25px;
+}
+.step4 {
+  top: 238.7px;
+  left: 342.4px;
+  width: 63.4px;
+  height: 20.4px;
+}
+.agri-business2,
+.classifield-print2,
+.roofandfloor4 {
+  position: absolute;
+  top: 184.1px;
+  left: 342.3px;
+  display: inline-block;
+  width: 136.5px;
+  height: 18.5px;
+}
+.agri-business2,
+.classifield-print2 {
+  top: 355.2px;
+  left: 345.4px;
+  width: 174.8px;
+  height: 24.1px;
+}
+.agri-business2 {
+  top: 181.3px;
+  left: 640.4px;
+  width: 142.5px;
+  height: 21.3px;
+}
+.andhra-pradesh2,
+.economy2,
+.industry2,
+.market2 {
+  position: absolute;
+  top: 229.4px;
+  left: 642.4px;
+  display: inline-block;
+  width: 99.4px;
+  height: 25px;
+}
+.andhra-pradesh2,
+.economy2,
+.market2 {
+  top: 290.5px;
+  left: 644.4px;
+}
+.andhra-pradesh2,
+.market2 {
+  top: 351.5px;
+  left: 645.4px;
+}
+.andhra-pradesh2 {
+  top: 181.3px;
+  left: 930px;
+  width: 169.7px;
+}
+.karnataka2,
+.kerala2,
+.news5,
+.tamil-nadu2 {
+  position: absolute;
+  top: 241.4px;
+  left: 933.1px;
+  display: inline-block;
+  width: 104.4px;
+  height: 22.2px;
+}
+.kerala2,
+.news5,
+.tamil-nadu2 {
+  top: 290.5px;
+  left: 937.2px;
+  width: 81.3px;
+  height: 25px;
+}
+.news5,
+.tamil-nadu2 {
+  top: 336.7px;
+  left: 936.2px;
+  width: 128.8px;
+  height: 23.1px;
+}
+.news5 {
+  top: 187.8px;
+  left: 1190.5px;
+  width: 158.6px;
+  height: 21.3px;
+}
+.elections3,
+.india-news2,
+.live-news-from2 {
+  position: absolute;
+  top: 282.2px;
+  left: 1191.7px;
+  display: inline-block;
+  width: 248.3px;
+  height: 41.6px;
+}
+.elections3,
+.india-news2 {
+  top: 241.4px;
+  left: 1189.6px;
+  width: 158.6px;
+  height: 21.3px;
+}
+.elections3 {
+  top: 465.3px;
+  left: 333.2px;
+  width: 101.2px;
+  height: 22.2px;
+}
+.israeli-palestinian-conflict-2-container2,
+.national-news3,
+.popular-sections3 {
+  position: absolute;
+  top: 506px;
+  left: 333.2px;
+  display: inline-block;
+  width: 274.9px;
+  height: 39.8px;
+}
+.national-news3,
+.popular-sections3 {
+  top: 424.6px;
+  width: 177.8px;
+  height: 22.2px;
+}
+.national-news3 {
+  top: 611.5px;
+  left: 332.2px;
+  width: 155.3px;
+}
+.latest-news4,
+.trump-in-highly2,
+.videos3 {
+  position: absolute;
+  top: 566.2px;
+  left: 333.2px;
+  display: inline-block;
+  width: 124.7px;
+  height: 21.3px;
+}
+.trump-in-highly2,
+.videos3 {
+  top: 341.4px;
+  left: 1195.7px;
+  width: 158.4px;
+  height: 114.7px;
+}
+.videos3 {
+  top: 698.4px;
+  left: 332.2px;
+  width: 155.3px;
+  height: 22.2px;
+}
+.international-news3,
+.life-style3,
+.sport2 {
+  position: absolute;
+  top: 655.9px;
+  left: 333.2px;
+  display: inline-block;
+  width: 209.5px;
+  height: 27.8px;
+}
+.life-style3,
+.sport2 {
+  top: 733.6px;
+  width: 155.3px;
+  height: 22.2px;
+}
+.sport2 {
+  top: 420.9px;
+  left: 622.4px;
+  width: 66.4px;
+}
+.athletics2,
+.cities2,
+.cricket2,
+.football2,
+.hockey2,
+.tennis2 {
+  position: absolute;
+  top: 457.9px;
+  left: 619.3px;
+  display: inline-block;
+  width: 101.2px;
+  height: 22.2px;
+}
+.athletics2,
+.cities2,
+.football2,
+.hockey2,
+.tennis2 {
+  top: 506.9px;
+}
+.athletics2,
+.cities2,
+.hockey2,
+.tennis2 {
+  top: 599.5px;
+}
+.athletics2,
+.cities2,
+.hockey2 {
+  top: 553.2px;
+}
+.athletics2,
+.cities2 {
+  top: 645.7px;
+  width: 93px;
+}
+.cities2 {
+  top: 413.5px;
+  left: 936.2px;
+  width: 66.4px;
+}
+.bengaluru2,
+.coimbatore2,
+.delhi2,
+.hyderabad2,
+.kochi2 {
+  position: absolute;
+  top: 457.9px;
+  left: 937.2px;
+  display: inline-block;
+  width: 111.4px;
+  height: 22.2px;
+}
+.coimbatore2,
+.delhi2,
+.hyderabad2,
+.kochi2 {
+  top: 502.3px;
+  left: 940.2px;
+  width: 124.7px;
+}
+.delhi2,
+.hyderabad2,
+.kochi2 {
+  top: 596.7px;
+  left: 943.3px;
+  width: 114.5px;
+  height: 21.3px;
+}
+.delhi2,
+.kochi2 {
+  top: 547.7px;
+  width: 101.2px;
+  height: 22.2px;
+}
+.kochi2 {
+  top: 638.3px;
+  left: 947.4px;
+}
+.footer-child32,
+.footer-child33,
+.footer-child34,
+.footer-child35 {
+  position: absolute;
+  top: 852.5px;
+  left: 15px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 80.2px;
+  height: 38px;
+}
+.footer-child33,
+.footer-child34,
+.footer-child35 {
+  left: 139px;
+}
+.footer-child34,
+.footer-child35 {
+  left: 253px;
+}
+.footer-child35 {
+  left: 363px;
+}
+.twitterx-icon4 {
+  position: absolute;
+  top: 854.2px;
+  left: 162px;
+  width: 34px;
+  height: 32px;
+  object-fit: cover;
+}
+.footer-child36 {
+  left: 475px;
+}
+.footer-child36,
+.footer-child37,
+.footer-child38 {
+  position: absolute;
+  top: 852.5px;
+  border-radius: var(--br-8xs);
+  width: 80.2px;
+  height: 38px;
+}
+.footer-child37 {
+  left: 587px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.footer-child38 {
+  left: 690px;
+}
+.sci-tech2,
+.science2 {
+  position: absolute;
+  top: 471.2px;
+  left: 1202px;
+  display: inline-block;
+  width: 93px;
+  height: 22.5px;
+}
+.science2 {
+  top: 511px;
+  left: 1205px;
+  width: 111.4px;
+  height: 22.2px;
+}
+.environment2,
+.health4,
+.technology2,
+.terms-of-use6 {
+  position: absolute;
+  top: 554.2px;
+  left: 1206px;
+  display: inline-block;
+  width: 125px;
+  height: 22.5px;
+}
+.environment2,
+.health4,
+.terms-of-use6 {
+  top: 636.3px;
+  left: 1202px;
+  width: 146px;
+  height: 24.2px;
+}
+.health4,
+.terms-of-use6 {
+  top: 591.4px;
+  left: 1206px;
+  width: 111.4px;
+  height: 22.2px;
+}
+.terms-of-use6 {
+  top: 936.3px;
+  left: 9px;
+  width: 354px;
+  height: 24.2px;
+}
+.linkedin-icon4,
+.spotify-icon4 {
+  position: absolute;
+  top: 854.2px;
+  left: 384px;
+  width: 40px;
+  height: 34.6px;
+  object-fit: cover;
+}
+.spotify-icon4 {
+  top: 852.5px;
+  left: 608px;
+  width: 39px;
+  height: 33.7px;
+}
+.facebook-icon4,
+.whatsapp-icon4,
+.youtube-icon4 {
+  position: absolute;
+  top: 853.3px;
+  left: 487px;
+  width: 59px;
+  height: 32.9px;
+  object-fit: cover;
+}
+.facebook-icon4,
+.whatsapp-icon4 {
+  left: 273px;
+  width: 41px;
+  height: 35.4px;
+}
+.whatsapp-icon4 {
+  top: 855.9px;
+  left: 36px;
+  width: 33px;
+  height: 27.7px;
+}
+.div8,
+.gadgets2 {
+  position: absolute;
+  display: inline-block;
+}
+.div8 {
+  top: 993.4px;
+  left: 87px;
+  font-size: var(--font-size-base);
+  width: 16px;
+  height: 13.8px;
+}
+.gadgets2 {
+  top: 676.1px;
+  left: 1202px;
+  width: 84px;
+  height: 22.5px;
+}
+.telegram-app-icon3,
+.up-arrow-icon3 {
+  position: absolute;
+  top: 979.6px;
+  left: 1205px;
+  width: 37px;
+  height: 32px;
+  object-fit: cover;
+}
+.telegram-app-icon3 {
+  top: 855.9px;
+  left: 698px;
+  width: 58px;
+  height: 30.3px;
+}
+.copyright-thg-publishing3 {
+  position: absolute;
+  top: 995.1px;
+  left: 10px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 509px;
+  height: 19.9px;
+}
+.back-to-top3 {
+  position: absolute;
+  top: 990.8px;
+  left: 1071px;
+  display: inline-block;
+  width: 354px;
+  height: 24.2px;
+}
+.footer2 {
+  position: absolute;
+  top: 2019px;
+  left: 0;
+  width: 1440px;
+  height: 1015px;
+  font-size: var(--font-size-xl);
+}
+.the-hindu-logonew-2-icon2 {
+  position: absolute;
+  top: 7px;
+  left: calc(50% - 200.5px);
+  width: 308px;
+  height: 113.9px;
+  object-fit: cover;
+}
+.hindu9,
+.world27 {
+  position: absolute;
+  display: inline-block;
+}
+.hindu9 {
+  top: 7px;
+  right: 265px;
+  font-size: var(--font-size-77xl);
+  width: 345px;
+  height: 121px;
+}
+.world27 {
+  top: 148px;
+  left: 372px;
+  font-size: var(--font-size-15xl);
+  width: 213.6px;
+  height: 50.4px;
+}
+.desktop-3-movies-section-child2,
+.desktop-3-movies-section-child3 {
+  position: absolute;
+  top: 324px;
+  left: 0;
+  width: 1437px;
+  height: 5px;
+  object-fit: contain;
+}
+.desktop-3-movies-section-child3 {
+  top: 198px;
+  left: 352px;
+  width: 193px;
+  height: 0.5px;
+}
+.desktop-3-movies-section-child4,
+.desktop-3-movies-section-child5 {
+  position: absolute;
+  top: 208px;
+  left: 582px;
+  width: 223.5px;
+  height: 0.1px;
+  object-fit: contain;
+}
+.desktop-3-movies-section-child5 {
+  left: 898px;
+  width: 216.5px;
+}
+.desktop-3-movies-section-child6 {
+  position: absolute;
+  top: 80px;
+  left: 1357px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 55px;
+  height: 48px;
+}
+.menu-icon4 {
+  position: absolute;
+  top: 86px;
+  right: 38px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.desktop-3-movies-section {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3045px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-merriweather);
+}

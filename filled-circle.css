@@ -1,0 +1,9 @@
+.filled-circle {
+  width: 100%;
+  position: relative;
+  height: 23px;
+  background-image: url(./public/filled-circle@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

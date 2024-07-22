@@ -1,0 +1,10 @@
+.first-copy-and {
+  width: 2496px;
+  position: relative;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}

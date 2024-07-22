@@ -1,0 +1,11 @@
+.search11 {
+  width: 100%;
+  position: relative;
+  height: 35.5px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  background-image: url(./public/search@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

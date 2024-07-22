@@ -1,0 +1,9 @@
+.the-hindu-logonew-1 {
+  width: 100%;
+  position: relative;
+  height: 1702px;
+  background-image: url(./public/thehindulogonew-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

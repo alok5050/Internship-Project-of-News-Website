@@ -1,0 +1,10 @@
+.google-play7 {
+  width: 121.8px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-merriweather);
+  color: var(--color-white);
+  text-align: left;
+  height: 23px;
+}

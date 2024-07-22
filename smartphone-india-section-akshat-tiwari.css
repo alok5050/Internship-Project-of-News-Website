@@ -1,0 +1,382 @@
+.ellipse-icon {
+  top: 0;
+  right: 0;
+  width: 27px;
+  height: 26px;
+}
+.ellipse-icon,
+.th11,
+.th12 {
+  position: absolute;
+}
+.th12 {
+  top: 5px;
+  right: 0;
+  font-weight: 800;
+  display: inline-block;
+  width: 24px;
+  height: 16px;
+}
+.th11 {
+  top: 0;
+  right: 85px;
+  width: 27px;
+  height: 26px;
+}
+.free-trial8 {
+  position: absolute;
+  top: 4px;
+  left: 33px;
+  font-weight: 800;
+  display: inline-block;
+  width: 79px;
+  height: 22px;
+}
+.trial {
+  position: absolute;
+  top: 25px;
+  right: 61px;
+  width: 112px;
+  height: 26px;
+  font-family: var(--font-inter);
+}
+.login-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 9px;
+  background-color: var(--color-white);
+  border: 1px solid #cb4040;
+  box-sizing: border-box;
+  width: 56px;
+  height: 25px;
+}
+.login10 {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: calc(50% - 20px);
+  font-weight: 800;
+  display: inline-block;
+  width: 42px;
+  height: 12.9px;
+}
+.login-button {
+  position: absolute;
+  top: 26px;
+  left: 298px;
+  width: 56px;
+  height: 25px;
+  font-size: var(--font-size-smi);
+  color: #c24d4d;
+  font-family: var(--font-inter);
+}
+.hindu17,
+.the17 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  display: inline-block;
+  width: 49px;
+  height: 23px;
+}
+.hindu17 {
+  top: 0;
+  left: 119px;
+  width: 78px;
+  height: 24px;
+}
+.the-hindu-logonew-2-icon8 {
+  position: absolute;
+  top: 0;
+  left: 50px;
+  width: 65px;
+  height: 24px;
+  object-fit: cover;
+}
+.logo {
+  position: absolute;
+  top: 73px;
+  left: 7px;
+  width: 197px;
+  height: 24px;
+  font-size: var(--font-size-2xl);
+}
+.suscribe-child {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-9xs);
+  background-color: #d82121;
+  width: 71px;
+  height: 22px;
+}
+.suscribe1 {
+  position: absolute;
+  top: 4px;
+  right: 7px;
+  display: inline-block;
+  width: 57px;
+  height: 12px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.suscribe {
+  position: absolute;
+  top: 73px;
+  right: 61px;
+  width: 71px;
+  height: 22px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+}
+.menu-icon9 {
+  position: absolute;
+  top: 70px;
+  right: 17px;
+  border-radius: var(--br-9xs);
+  width: 33px;
+  height: 27px;
+  object-fit: cover;
+}
+.three-line-child,
+.three-line-inner,
+.three-line-item {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: 0;
+  right: -1px;
+  left: 0;
+  border-top: 1px solid var(--color-rosybrown-100);
+  box-sizing: border-box;
+  height: 1px;
+}
+.three-line-inner,
+.three-line-item {
+  top: 22px;
+}
+.three-line-inner {
+  top: 11px;
+}
+.three-line,
+.three-line1 {
+  position: absolute;
+  width: calc(100% - 213px);
+  top: 9px;
+  right: 213px;
+  left: 0;
+  height: 22px;
+}
+.three-line1 {
+  right: 0;
+  left: 213px;
+}
+.india-title1,
+.india16 {
+  position: absolute;
+  height: 31px;
+}
+.india16 {
+  width: calc(100% - 290px);
+  top: calc(50% - 15.5px);
+  left: 145px;
+  font-weight: 600;
+  display: inline-block;
+}
+.india-title1 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.india17 {
+  text-decoration: underline;
+  color: #a75454;
+}
+.news-india-container3 {
+  position: absolute;
+  top: 49px;
+  left: 7px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 298px;
+  height: 20px;
+  color: var(--color-black);
+}
+.title-and-navbar {
+  position: absolute;
+  width: calc(100% - 11px);
+  top: 102px;
+  right: 6px;
+  left: 5px;
+  height: 69px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: #a85353;
+  font-family: var(--font-playfair-display);
+}
+.whatsapp-image-2024-07-18-at-21 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 322px;
+  height: 180.5px;
+  object-fit: cover;
+}
+.neet-ug-2024-case2,
+.the-hindu-bureau4,
+.the-top-court1 {
+  position: absolute;
+  left: 2px;
+  color: inherit;
+  display: inline-block;
+  width: 322px;
+  text-decoration: none;
+}
+.neet-ug-2024-case2 {
+  top: 0;
+  font-family: var(--font-merriweather-sans);
+  height: 122px;
+}
+.the-hindu-bureau4,
+.the-top-court1 {
+  top: 344px;
+  font-size: var(--font-size-xs);
+}
+.the-hindu-bureau4 {
+  top: 384px;
+  font-size: var(--font-size-2xs);
+  text-decoration: underline;
+  width: 122px;
+  height: 14px;
+}
+.news-1,
+.news-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.news-1 {
+  width: 324px;
+  height: 398px;
+  font-size: var(--font-size-4xl);
+}
+.news-2-child {
+  border-top: 1px solid var(--color-indianred-100);
+  box-sizing: border-box;
+  width: 323px;
+  height: 1px;
+}
+.india18 {
+  top: 8px;
+  color: var(--color-brown-100);
+  width: 37px;
+  height: 14px;
+}
+.india18,
+.niti-aayog-and,
+.the-hindu-bureau5 {
+  position: absolute;
+  left: 2px;
+  display: inline-block;
+}
+.the-hindu-bureau5 {
+  top: 50px;
+  font-size: var(--font-size-2xs);
+  text-decoration: underline;
+  color: inherit;
+  width: 122px;
+  height: 14px;
+}
+.niti-aayog-and {
+  top: 30px;
+  width: 251px;
+  height: 18px;
+}
+.news-2 {
+  position: absolute;
+  top: 412px;
+  left: 0;
+  width: 322px;
+  height: 64px;
+}
+.india19,
+.naxal-attack-in {
+  position: absolute;
+  top: 8px;
+  left: 2px;
+  display: inline-block;
+  width: 37px;
+  height: 14px;
+}
+.naxal-attack-in {
+  top: 31px;
+  color: var(--color-black);
+  width: 322px;
+  height: 34px;
+}
+.news-3 {
+  position: absolute;
+  top: 485px;
+  left: 0;
+  width: 324px;
+  height: 65px;
+  color: var(--color-brown-100);
+}
+.chandigarh-dibrugarh-express-d {
+  position: absolute;
+  top: 9px;
+  left: 2px;
+  display: inline-block;
+  width: 322px;
+  height: 34px;
+}
+.news-4,
+.news-section1 {
+  position: absolute;
+  top: 562px;
+  left: 0;
+  width: 324px;
+  height: 43px;
+}
+.news-section1 {
+  top: 184px;
+  left: 36px;
+  height: 605px;
+  font-size: var(--font-size-xs);
+}
+.open-in-the {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 117px;
+  height: 16px;
+}
+.arrow-up-right-icon {
+  position: absolute;
+  top: 0;
+  left: 117px;
+  width: 20px;
+  height: 17px;
+  overflow: hidden;
+}
+.open-in-app {
+  position: absolute;
+  top: 22px;
+  left: 7px;
+  width: 137px;
+  height: 19px;
+  font-size: var(--font-size-3xs);
+}
+.smartphone-india-section-a {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-merriweather);
+}

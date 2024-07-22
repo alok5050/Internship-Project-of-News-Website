@@ -1,0 +1,9 @@
+.th15 {
+  width: 38px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-merriweather);
+  color: var(--color-black);
+  text-align: left;
+}

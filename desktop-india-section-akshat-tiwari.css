@@ -1,0 +1,1416 @@
+.the2 {
+  position: absolute;
+  top: 0;
+  left: 346px;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 227px;
+  height: 96px;
+}
+.the-hindu-logonew-2-icon {
+  position: absolute;
+  top: 2.1px;
+  left: 573px;
+  width: 308px;
+  height: 110.6px;
+  object-fit: cover;
+}
+.hindu2 {
+  position: absolute;
+  top: 0;
+  right: 213px;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 346px;
+  height: 96px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 138.8px;
+  left: 23px;
+  width: 214px;
+  height: 0.2px;
+  object-fit: contain;
+}
+.group-item {
+  top: 137.3px;
+  left: 327px;
+  width: 193px;
+  height: 0.5px;
+}
+.group-child1,
+.group-child2,
+.group-inner {
+  position: absolute;
+  top: 137.8px;
+  left: 614px;
+  width: 224px;
+  height: 0;
+  object-fit: contain;
+}
+.group-child1,
+.group-child2 {
+  left: 920px;
+  width: 217px;
+}
+.group-child2 {
+  left: 1219px;
+  width: 130px;
+  height: 1.2px;
+}
+.budget-2024,
+.e-paper,
+.india2,
+.movies,
+.world {
+  position: absolute;
+  top: 156.6px;
+  left: 23px;
+  display: inline-block;
+  width: 214px;
+  height: 30.3px;
+}
+.budget-2024,
+.e-paper,
+.movies,
+.world {
+  top: 152.4px;
+  left: 324px;
+}
+.budget-2024,
+.e-paper,
+.movies {
+  left: 620px;
+}
+.budget-2024,
+.e-paper {
+  left: 920px;
+}
+.e-paper {
+  top: 156.6px;
+  left: 1219px;
+  width: 140px;
+}
+.olympics {
+  white-space: pre-wrap;
+}
+.search1 {
+  color: var(--color-darkgray-100);
+}
+.olympics-data-container {
+  position: absolute;
+  top: 243.2px;
+  left: 8px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 838px;
+  height: 48px;
+  color: var(--color-firebrick-100);
+}
+.search-icon {
+  position: absolute;
+  top: 243.2px;
+  left: 614px;
+  width: 42px;
+  height: 34.4px;
+  object-fit: contain;
+}
+.free-trial1 {
+  position: absolute;
+  top: 235.9px;
+  left: 855.1px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  width: 164px;
+  height: 24px;
+  transform: rotate(0.1deg);
+  transform-origin: 0 0;
+}
+.group-child3 {
+  position: absolute;
+  top: 225.4px;
+  left: 1019px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-firebrick-100);
+  width: 208px;
+  height: 52.2px;
+}
+.group-child4 {
+  position: absolute;
+  top: 307.4px;
+  left: 0;
+  width: 1440px;
+  height: 3.1px;
+  object-fit: contain;
+}
+.subscribe1 {
+  position: absolute;
+  top: 235.9px;
+  left: 1054px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 145px;
+  height: 26.1px;
+}
+.group-child5 {
+  position: absolute;
+  top: 225.4px;
+  left: 1255px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  width: 165px;
+  height: 52.2px;
+}
+.login1 {
+  position: absolute;
+  top: 235.9px;
+  left: 1293px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-firebrick-100);
+  display: inline-block;
+  width: 112px;
+  height: 27.1px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 225.4px;
+  left: 798px;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod);
+  width: 48px;
+  height: 52.2px;
+}
+.th {
+  position: absolute;
+  top: 236.9px;
+  left: 803px;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 38px;
+  height: 31.3px;
+}
+.group-child6 {
+  position: absolute;
+  top: 128px;
+  left: 1369px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 45px;
+  height: 40px;
+}
+.menu-icon1 {
+  position: absolute;
+  top: 132px;
+  left: 1376px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.desktop-6-main-page,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 310.5px;
+}
+.desktop-6-main-page {
+  background-color: var(--color-white);
+  height: 310px;
+  overflow: hidden;
+}
+.india3 {
+  position: absolute;
+  top: 0;
+  left: 654px;
+  display: inline-block;
+  width: 118px;
+  height: 57px;
+  opacity: 0.9;
+}
+.india-title-child,
+.india-title-child1,
+.india-title-child2,
+.india-title-child3,
+.india-title-inner,
+.india-title-item {
+  position: absolute;
+  top: 28px;
+  left: 780px;
+  border-top: 1px solid var(--color-lightgray-300);
+  box-sizing: border-box;
+  width: 647px;
+  height: 1px;
+}
+.india-title-child1,
+.india-title-child2,
+.india-title-child3,
+.india-title-inner,
+.india-title-item {
+  top: 16px;
+}
+.india-title-child1,
+.india-title-child2,
+.india-title-child3,
+.india-title-inner {
+  left: 0;
+}
+.india-title-child1,
+.india-title-child2,
+.india-title-child3 {
+  top: 45px;
+  left: 780px;
+}
+.india-title-child2,
+.india-title-child3 {
+  top: 28px;
+  left: 0;
+}
+.india-title-child3 {
+  top: 45px;
+}
+.india-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1426px;
+  height: 57px;
+}
+.india4 {
+  text-decoration: underline;
+  color: var(--color-dimgray-300);
+}
+.news-india-container {
+  position: absolute;
+  top: 69px;
+  left: 13px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-merriweather-sans);
+  text-align: left;
+  display: inline-block;
+  width: 1328px;
+  height: 27px;
+  color: var(--color-black);
+}
+.title-page {
+  position: absolute;
+  top: 322px;
+  left: 4px;
+  width: 1426px;
+  height: 96px;
+  text-align: center;
+  font-size: 51px;
+  color: var(--color-firebrick-200);
+  font-family: var(--font-playfair-display);
+}
+.trending-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 316px;
+  height: 589px;
+}
+.trending2 {
+  margin: 0;
+  font-size: 47px;
+  color: var(--color-firebrick-100);
+}
+.trending1 {
+  position: absolute;
+  top: 18px;
+  left: 14px;
+  font-family: var(--font-merriweather-sans);
+  display: inline-block;
+  width: 288px;
+  height: 66px;
+  font-size: var(--font-size-2xl);
+}
+.bengaluru-based-cropin-launche,
+.div {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  display: inline-block;
+  width: 18px;
+  height: 53px;
+}
+.bengaluru-based-cropin-launche {
+  top: 0;
+  left: 35px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-merriweather);
+  color: inherit;
+  width: 260px;
+  height: 111px;
+  text-decoration: none;
+}
+.trending3 {
+  position: absolute;
+  top: 104px;
+  left: 11px;
+  width: 295px;
+  height: 111px;
+}
+.div1,
+.union-ministers-plea {
+  position: absolute;
+  top: 13px;
+  left: 0;
+  display: inline-block;
+  width: 18px;
+  height: 53px;
+}
+.union-ministers-plea {
+  top: 0;
+  left: 32px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-merriweather);
+  color: inherit;
+  width: 256px;
+  height: 93px;
+  text-decoration: none;
+}
+.div2,
+.trending4 {
+  position: absolute;
+  top: 243px;
+  left: 14px;
+  width: 288px;
+  height: 93px;
+}
+.div2 {
+  top: 7px;
+  left: 0;
+  display: inline-block;
+  width: 18px;
+  height: 53px;
+}
+.knives-are-out,
+.trending5 {
+  position: absolute;
+  height: 98px;
+}
+.knives-are-out {
+  top: 0;
+  left: 32px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-merriweather);
+  color: inherit;
+  display: inline-block;
+  width: 256px;
+  text-decoration: none;
+}
+.trending5 {
+  top: 351px;
+  left: 14px;
+  width: 288px;
+}
+.div3,
+.trainee-ias-officer {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  display: inline-block;
+  width: 18px;
+  height: 53px;
+}
+.trainee-ias-officer {
+  top: 0;
+  left: 32px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-merriweather);
+  color: inherit;
+  width: 256px;
+  height: 107px;
+  text-decoration: none;
+}
+.trending,
+.trending6 {
+  position: absolute;
+  top: 459px;
+  left: 14px;
+  width: 288px;
+  height: 107px;
+}
+.trending {
+  top: 746px;
+  left: 1114px;
+  width: 316px;
+  height: 589px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-playfair-display);
+}
+.x250-87140894159933948-2-icon {
+  position: absolute;
+  top: 458px;
+  left: 1116px;
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+}
+.main-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 788px;
+  height: 589px;
+}
+.neet-ug-2024-case {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 734px;
+  height: 150px;
+}
+.whatsapp-image-2024-07-18-at-2 {
+  position: absolute;
+  top: calc(50% + 149.6px);
+  left: 0;
+  width: 355px;
+  height: 202.8px;
+  object-fit: cover;
+}
+.the-hindu-bureau,
+.the-top-court {
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: inherit;
+  display: inline-block;
+  width: 341px;
+  height: 99.9px;
+  text-decoration: none;
+}
+.the-hindu-bureau {
+  top: 111.1px;
+  font-size: var(--font-size-mid);
+  text-decoration: underline;
+  height: 24.5px;
+}
+.the-top-court-however-refrai-parent {
+  position: absolute;
+  top: 176.7px;
+  left: 393px;
+  width: 341px;
+  height: 135.5px;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-merriweather);
+}
+.main-item,
+.main1 {
+  position: absolute;
+  top: 23px;
+  left: 21px;
+  width: 734px;
+  height: 704.8px;
+}
+.main-item {
+  top: 0;
+  left: 0;
+  width: 378px;
+  height: 178px;
+}
+.india5,
+.opposition-parties-question {
+  position: absolute;
+  display: inline-block;
+  text-decoration: none;
+}
+.india5 {
+  top: 22px;
+  left: 36px;
+  color: inherit;
+  width: 77px;
+  height: 25.7px;
+}
+.opposition-parties-question {
+  top: 68px;
+  left: 32px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  width: 332px;
+  height: 95.3px;
+}
+.main,
+.main2 {
+  position: absolute;
+}
+.main2 {
+  top: 411px;
+  left: 16px;
+  width: 378px;
+  height: 178px;
+  font-size: 26px;
+  color: var(--color-firebrick-100);
+}
+.main {
+  top: 435px;
+  left: 306px;
+  width: 788px;
+  height: 727.8px;
+  font-size: 39px;
+  font-family: var(--font-merriweather-sans);
+}
+.main-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 374px;
+  height: 178px;
+}
+.opposition-continuously-using {
+  position: absolute;
+  top: 35px;
+  left: 23px;
+  color: inherit;
+  display: inline-block;
+  width: 329px;
+  height: 120px;
+  text-decoration: none;
+}
+.main3 {
+  position: absolute;
+  top: 846px;
+  left: 709px;
+  width: 374px;
+  height: 178px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-merriweather-sans);
+}
+.se-child,
+.side-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 297px;
+  height: 589px;
+}
+.se-child {
+  width: 269px;
+  height: 217px;
+}
+.jammu-and-kashmir {
+  top: 14.2px;
+  left: 15.3px;
+  font-weight: 700;
+  color: var(--color-firebrick-100);
+  width: 221.8px;
+  height: 25.8px;
+  text-decoration: none;
+}
+.congress-leaders-detained,
+.jammu-and-kashmir,
+.pti {
+  position: absolute;
+  display: inline-block;
+}
+.congress-leaders-detained {
+  top: 58.1px;
+  left: 15.3px;
+  font-size: var(--font-size-2xl);
+  color: inherit;
+  width: 234.6px;
+  height: 103.3px;
+  text-decoration: none;
+}
+.pti {
+  top: 180px;
+  left: 15px;
+  font-size: var(--font-size-lg);
+  width: 40px;
+  height: 25px;
+}
+.se,
+.se-item {
+  position: absolute;
+  top: 18px;
+  left: 17px;
+  width: 269px;
+  height: 217px;
+}
+.se-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 216px;
+}
+.health1 {
+  top: 10.6px;
+  font-weight: 700;
+  color: var(--color-firebrick-100);
+  width: 221.8px;
+  height: 25.7px;
+  text-decoration: none;
+}
+.health1,
+.indias-first-overseas,
+.pti1 {
+  position: absolute;
+  left: 23.9px;
+  display: inline-block;
+}
+.indias-first-overseas {
+  top: 57.6px;
+  font-size: var(--font-size-2xl);
+  color: inherit;
+  width: 234.6px;
+  height: 102.9px;
+  text-decoration: none;
+}
+.pti1 {
+  top: 173.8px;
+  font-size: var(--font-size-lg);
+  width: 39.9px;
+  height: 21.1px;
+}
+.se-inner,
+.se1 {
+  position: absolute;
+  top: 243px;
+  left: 17px;
+  width: 269px;
+  height: 216px;
+}
+.se-inner {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 110px;
+}
+.neet-ug-2024-case1 {
+  position: absolute;
+  top: 6px;
+  left: 12px;
+  color: inherit;
+  display: inline-block;
+  width: 245px;
+  height: 100px;
+  text-decoration: none;
+}
+.se2 {
+  position: absolute;
+  top: 479px;
+  left: 17px;
+  width: 269px;
+  height: 110px;
+  font-size: var(--font-size-2xl);
+}
+.side-section,
+.the3 {
+  position: absolute;
+  left: 0;
+}
+.side-section {
+  top: 458px;
+  width: 297px;
+  height: 589px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-merriweather-sans);
+}
+.the3 {
+  top: 5.7px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  width: 193.2px;
+  height: 96.3px;
+}
+.the-hindu-logonew-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 230.2px;
+  width: 249px;
+  height: 102.1px;
+  object-fit: cover;
+}
+.hindu3,
+.the-hindu2 {
+  position: absolute;
+  top: 168px;
+  left: 27.1px;
+  display: inline-block;
+  width: 124.5px;
+  height: 38.5px;
+}
+.hindu3 {
+  top: 12.6px;
+  left: 488.1px;
+  font-size: var(--font-size-61xl);
+  width: 337px;
+  height: 96.3px;
+}
+.footer-child {
+  position: absolute;
+  top: 9.2px;
+  left: 1185.8px;
+  border-radius: var(--br-8xs);
+  width: 234.6px;
+  height: 82.6px;
+}
+.app-store1 {
+  position: absolute;
+  top: 50.5px;
+  left: 1292.6px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 113.7px;
+  height: 27.5px;
+}
+.apple-logo-icon1 {
+  position: absolute;
+  top: 13.8px;
+  left: 1196px;
+  width: 59.4px;
+  height: 72.2px;
+  object-fit: cover;
+}
+.download-on-the1 {
+  position: absolute;
+  top: 21.8px;
+  left: 1283.4px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  display: inline-block;
+  width: 122.9px;
+  height: 19.5px;
+}
+.footer-item {
+  position: absolute;
+  top: 6.9px;
+  left: 917.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 234.6px;
+  height: 82.6px;
+}
+.google-playstore-icon1 {
+  position: absolute;
+  top: 8px;
+  left: 930px;
+  width: 60.9px;
+  height: 80.3px;
+  object-fit: cover;
+}
+.get-it-on {
+  position: absolute;
+  top: 19.5px;
+  left: 1027.6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  display: inline-block;
+  width: 81.4px;
+  height: 34.4px;
+}
+.footer-child1,
+.footer-child2,
+.footer-inner {
+  position: absolute;
+  top: 154.2px;
+  left: 27.1px;
+  width: 202.8px;
+  height: 0.1px;
+  object-fit: contain;
+}
+.footer-child1,
+.footer-child2 {
+  top: 153.7px;
+  left: 340.3px;
+}
+.footer-child2 {
+  top: 151.9px;
+  left: 1195.5px;
+}
+.google-play1 {
+  position: absolute;
+  top: 55px;
+  left: 1006.3px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 123.9px;
+  height: 26.4px;
+}
+.footer-child3,
+.footer-child4 {
+  position: absolute;
+  top: 151.9px;
+  left: 933.5px;
+  width: 202.8px;
+  height: 0.1px;
+  object-fit: contain;
+}
+.footer-child4 {
+  left: 640.4px;
+}
+.other-products1 {
+  position: absolute;
+  top: 166.9px;
+  left: 340.3px;
+  display: inline-block;
+  width: 155.6px;
+  height: 22.5px;
+}
+.about-us1,
+.business,
+.sitemap1,
+.states {
+  position: absolute;
+  top: 165.9px;
+  left: 645.4px;
+  display: inline-block;
+  width: 96.4px;
+  height: 23.5px;
+}
+.about-us1,
+.sitemap1,
+.states {
+  top: 170.1px;
+  left: 933.5px;
+  width: 111.4px;
+  height: 38.5px;
+}
+.about-us1,
+.sitemap1 {
+  top: 220.4px;
+  left: 27.1px;
+  width: 99.4px;
+  height: 28.9px;
+}
+.sitemap1 {
+  top: 417.3px;
+  left: 29.1px;
+}
+.code-of-editorial1,
+.images1,
+.news-archive1,
+.trending-on-the {
+  position: absolute;
+  top: 353.1px;
+  left: 29.1px;
+  display: inline-block;
+  width: 139.5px;
+  height: 25.7px;
+}
+.code-of-editorial1,
+.images1,
+.trending-on-the {
+  top: 287.8px;
+  left: 27.1px;
+  width: 240.9px;
+}
+.images1,
+.trending-on-the {
+  top: 171px;
+  left: 1191px;
+  width: 234.9px;
+}
+.images1 {
+  top: 337px;
+  left: 345.3px;
+  width: 99.4px;
+  height: 28.9px;
+}
+.classifield-print,
+.roofandfloor1,
+.step1 {
+  position: absolute;
+  top: 276.1px;
+  left: 342.4px;
+  display: inline-block;
+  width: 63.4px;
+  height: 23.5px;
+}
+.classifield-print,
+.roofandfloor1 {
+  top: 212.9px;
+  left: 342.3px;
+  width: 136.5px;
+  height: 21.4px;
+}
+.classifield-print {
+  top: 410.9px;
+  left: 345.4px;
+  width: 174.8px;
+  height: 27.8px;
+}
+.agri-business,
+.economy,
+.industry,
+.market {
+  position: absolute;
+  top: 209.7px;
+  left: 640.4px;
+  display: inline-block;
+  width: 142.5px;
+  height: 24.6px;
+}
+.economy,
+.industry,
+.market {
+  top: 265.4px;
+  left: 642.4px;
+  width: 99.4px;
+  height: 28.9px;
+}
+.economy,
+.market {
+  top: 336px;
+  left: 644.4px;
+}
+.market {
+  top: 406.6px;
+  left: 645.4px;
+}
+.andhra-pradesh,
+.karnataka,
+.kerala,
+.news1,
+.tamil-nadu {
+  position: absolute;
+  top: 209.7px;
+  left: 930px;
+  display: inline-block;
+  width: 169.7px;
+  height: 28.9px;
+}
+.karnataka,
+.kerala,
+.news1,
+.tamil-nadu {
+  top: 279.3px;
+  left: 933.1px;
+  width: 104.4px;
+  height: 25.7px;
+}
+.kerala,
+.news1,
+.tamil-nadu {
+  top: 336px;
+  left: 937.2px;
+  width: 81.3px;
+  height: 28.9px;
+}
+.news1,
+.tamil-nadu {
+  top: 389.5px;
+  left: 936.2px;
+  width: 128.8px;
+  height: 26.7px;
+}
+.news1 {
+  top: 217.2px;
+  left: 1190.5px;
+  width: 158.6px;
+  height: 24.6px;
+}
+.elections,
+.india-news,
+.live-news-from {
+  position: absolute;
+  top: 326.3px;
+  left: 1191.7px;
+  display: inline-block;
+  width: 248.3px;
+  height: 48.1px;
+}
+.elections,
+.india-news {
+  top: 279.3px;
+  left: 1189.6px;
+  width: 158.6px;
+  height: 24.6px;
+}
+.elections {
+  top: 538.2px;
+  left: 333.2px;
+  width: 101.2px;
+  height: 25.7px;
+}
+.israeli-palestinian-conflict {
+  margin: 0;
+}
+.israeli-palestinian-conflict-2-container {
+  position: absolute;
+  top: 585.3px;
+  left: 333.2px;
+  display: inline-block;
+  width: 274.9px;
+  height: 46px;
+}
+.latest-news1,
+.national-news,
+.popular-sections,
+.trump-in-highly {
+  position: absolute;
+  top: 491.1px;
+  left: 333.2px;
+  display: inline-block;
+  width: 177.8px;
+  height: 25.7px;
+}
+.latest-news1,
+.national-news,
+.trump-in-highly {
+  top: 707.3px;
+  left: 332.2px;
+  width: 155.3px;
+}
+.latest-news1,
+.trump-in-highly {
+  top: 654.8px;
+  left: 333.2px;
+  width: 124.7px;
+  height: 24.6px;
+}
+.trump-in-highly {
+  top: 394.8px;
+  left: 1195.7px;
+  width: 158.4px;
+  height: 132.7px;
+}
+.international-news,
+.life-style,
+.videos {
+  position: absolute;
+  top: 807.8px;
+  left: 332.2px;
+  display: inline-block;
+  width: 155.3px;
+  height: 25.7px;
+}
+.international-news,
+.life-style {
+  top: 758.6px;
+  left: 333.2px;
+  width: 209.5px;
+  height: 32.1px;
+}
+.life-style {
+  top: 848.5px;
+  width: 155.3px;
+  height: 25.7px;
+}
+.athletics,
+.cricket,
+.football,
+.hockey,
+.sport,
+.tennis {
+  position: absolute;
+  top: 486.8px;
+  left: 622.4px;
+  display: inline-block;
+  width: 66.4px;
+  height: 25.7px;
+}
+.athletics,
+.cricket,
+.football,
+.hockey,
+.tennis {
+  top: 529.6px;
+  left: 619.3px;
+  width: 101.2px;
+}
+.athletics,
+.football,
+.hockey,
+.tennis {
+  top: 586.4px;
+}
+.athletics,
+.hockey,
+.tennis {
+  top: 693.4px;
+}
+.athletics,
+.hockey {
+  top: 639.9px;
+}
+.athletics {
+  top: 746.9px;
+  width: 93px;
+}
+.bengaluru,
+.cities,
+.coimbatore,
+.delhi,
+.hyderabad,
+.kochi {
+  position: absolute;
+  top: 478.3px;
+  left: 936.2px;
+  display: inline-block;
+  width: 66.4px;
+  height: 25.7px;
+}
+.bengaluru,
+.coimbatore,
+.delhi,
+.hyderabad,
+.kochi {
+  top: 529.6px;
+  left: 937.2px;
+  width: 111.4px;
+}
+.coimbatore,
+.delhi,
+.hyderabad,
+.kochi {
+  top: 581px;
+  left: 940.2px;
+  width: 124.7px;
+}
+.delhi,
+.hyderabad,
+.kochi {
+  top: 690.1px;
+  left: 943.3px;
+  width: 114.5px;
+  height: 24.6px;
+}
+.delhi,
+.kochi {
+  top: 633.4px;
+  width: 101.2px;
+  height: 25.7px;
+}
+.kochi {
+  top: 738.3px;
+  left: 947.4px;
+}
+.footer-child5,
+.footer-child6,
+.footer-child7,
+.footer-child8 {
+  position: absolute;
+  top: 986px;
+  left: 15px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 80.2px;
+  height: 44px;
+}
+.footer-child6,
+.footer-child7,
+.footer-child8 {
+  left: 139px;
+}
+.footer-child7,
+.footer-child8 {
+  left: 253px;
+}
+.footer-child8 {
+  left: 363px;
+}
+.twitterx-icon1 {
+  position: absolute;
+  top: 988px;
+  left: 162px;
+  width: 34px;
+  height: 37px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  left: 475px;
+}
+.footer-child10,
+.footer-child9,
+.rectangle-icon {
+  position: absolute;
+  top: 986px;
+  border-radius: var(--br-8xs);
+  width: 80.2px;
+  height: 44px;
+}
+.footer-child9 {
+  left: 587px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.footer-child10 {
+  left: 690px;
+}
+.sci-tech,
+.science {
+  position: absolute;
+  top: 545px;
+  left: 1202px;
+  display: inline-block;
+  width: 93px;
+  height: 26px;
+}
+.science {
+  top: 591px;
+  left: 1205px;
+  width: 111.4px;
+  height: 25.7px;
+}
+.environment,
+.health2,
+.technology,
+.terms-of-use1 {
+  position: absolute;
+  top: 641px;
+  left: 1206px;
+  display: inline-block;
+  width: 125px;
+  height: 26px;
+}
+.environment,
+.health2,
+.terms-of-use1 {
+  top: 736px;
+  left: 1202px;
+  width: 146px;
+  height: 28px;
+}
+.health2,
+.terms-of-use1 {
+  top: 684px;
+  left: 1206px;
+  width: 111.4px;
+  height: 25.7px;
+}
+.terms-of-use1 {
+  top: 1083px;
+  left: 9px;
+  width: 354px;
+  height: 28px;
+}
+.linkedin-icon1,
+.spotify-icon1 {
+  position: absolute;
+  top: 988px;
+  left: 384px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.spotify-icon1 {
+  top: 986px;
+  left: 608px;
+  width: 39px;
+  height: 39px;
+}
+.facebook-icon1,
+.whatsapp-icon1,
+.youtube-icon1 {
+  position: absolute;
+  top: 987px;
+  left: 487px;
+  width: 59px;
+  height: 38px;
+  object-fit: cover;
+}
+.facebook-icon1,
+.whatsapp-icon1 {
+  left: 273px;
+  width: 41px;
+  height: 41px;
+}
+.whatsapp-icon1 {
+  top: 990px;
+  left: 36px;
+  width: 33px;
+  height: 32px;
+}
+.div4,
+.gadgets {
+  position: absolute;
+  display: inline-block;
+}
+.div4 {
+  top: 1149px;
+  left: 87px;
+  font-size: var(--font-size-base);
+  width: 16px;
+  height: 16px;
+}
+.gadgets {
+  top: 782px;
+  left: 1202px;
+  width: 84px;
+  height: 26px;
+}
+.telegram-app-icon1,
+.up-arrow-icon1 {
+  position: absolute;
+  top: 1133px;
+  left: 1205px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.telegram-app-icon1 {
+  top: 990px;
+  left: 698px;
+  width: 58px;
+  height: 35px;
+}
+.copyright-thg-publishing1 {
+  position: absolute;
+  top: 1151px;
+  left: 10px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 509px;
+  height: 23px;
+}
+.back-to-top1 {
+  position: absolute;
+  top: 1146px;
+  left: 1071px;
+  display: inline-block;
+  width: 354px;
+  height: 28px;
+}
+.footer {
+  position: absolute;
+  top: 1967px;
+  left: 0;
+  width: 1440px;
+  height: 1174px;
+  font-size: var(--font-size-xl);
+}
+.click-for-mobile {
+  position: absolute;
+  top: 1474px;
+  left: calc(50% - 195px);
+  font-size: var(--font-size-15xl);
+  display: inline-block;
+  width: 389px;
+  height: 42px;
+  cursor: pointer;
+}
+.desktop-india-section-aksh {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3141px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-merriweather);
+}

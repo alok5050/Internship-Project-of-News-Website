@@ -1,0 +1,221 @@
+.two-soldiers-injured2 {
+  position: absolute;
+  top: 274px;
+  left: 33px;
+  font-size: 64px;
+  display: inline-block;
+  width: 1407px;
+  height: 160px;
+}
+.home {
+  white-space: pre-wrap;
+}
+.home-news-container {
+  position: absolute;
+  top: 214px;
+  left: 33px;
+  display: inline-block;
+  width: 261px;
+  height: 29px;
+}
+.desktop-7article-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 108px;
+}
+.filled-circle-icon {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.india20,
+.th14 {
+  position: absolute;
+  display: inline-block;
+}
+.th14 {
+  top: 41px;
+  left: 44px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  width: 40px;
+  height: 36px;
+}
+.india20 {
+  top: 37px;
+  left: 130px;
+  width: 67px;
+  height: 28px;
+}
+.budget-20247,
+.e-paper7,
+.free-trial9,
+.movies13,
+.world33 {
+  position: absolute;
+  top: 37px;
+  left: 218px;
+  display: inline-block;
+  width: 75px;
+  height: 24px;
+}
+.budget-20247,
+.e-paper7,
+.free-trial9,
+.movies13 {
+  left: 318px;
+  width: 89px;
+  height: 28px;
+}
+.budget-20247,
+.e-paper7,
+.free-trial9 {
+  left: 416px;
+  width: 153px;
+}
+.e-paper7,
+.free-trial9 {
+  left: 578px;
+  width: 104px;
+  height: 25px;
+}
+.free-trial9 {
+  top: 35px;
+  left: 996px;
+  width: 129px;
+  height: 27px;
+}
+.desktop-7article-page-inner,
+.desktop-7article-page-item {
+  position: absolute;
+  top: 30px;
+  left: 1150px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-firebrick-100);
+  width: 119px;
+  height: 39px;
+}
+.desktop-7article-page-inner {
+  top: 29px;
+  left: 1294px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  width: 126px;
+  height: 40px;
+}
+.login11,
+.subscribe9 {
+  position: absolute;
+  top: 40px;
+  left: 1164px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  color: var(--color-white);
+  width: 92px;
+  height: 19px;
+}
+.login11 {
+  top: 39px;
+  left: 1330px;
+  color: var(--color-firebrick-100);
+  width: 54px;
+}
+.image-4-icon2 {
+  position: absolute;
+  top: 442px;
+  left: 33px;
+  width: 1315px;
+  height: 740px;
+  object-fit: cover;
+}
+.the-encounter-erupted2 {
+  position: absolute;
+  top: 1213px;
+  left: 54px;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 1294px;
+  height: 60px;
+}
+.doda {
+  color: var(--color-firebrick-100);
+}
+.both-injured-soldiers-container,
+.in-a-recent-container {
+  position: absolute;
+  top: 1365px;
+  left: 45px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 1303px;
+  height: 167px;
+}
+.both-injured-soldiers-container {
+  top: 1641px;
+  left: 59px;
+  width: 1289px;
+  height: 140px;
+}
+.this-incident-underscores-container {
+  top: 1854px;
+  left: 77px;
+  width: 1234px;
+  height: 120px;
+}
+.jammu-and-kashmir-container,
+.related-topics,
+.this-incident-underscores-container {
+  position: absolute;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.related-topics {
+  top: 2005px;
+  left: 77px;
+  color: var(--color-firebrick-100);
+  width: 239px;
+  height: 40px;
+}
+.jammu-and-kashmir-container {
+  top: 2076px;
+  left: 59px;
+  width: 531px;
+  height: 36px;
+}
+.desktop-7article-page-child1 {
+  position: absolute;
+  top: 2114px;
+  left: 59px;
+  width: 320px;
+  height: 2px;
+  object-fit: contain;
+}
+.desktop-7article-page-child2 {
+  position: absolute;
+  top: 2115.5px;
+  left: 415.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 175px;
+  height: 1px;
+}
+.desktop-7article-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2132px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-merriweather);
+}

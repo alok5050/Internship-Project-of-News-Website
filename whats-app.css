@@ -1,0 +1,9 @@
+.whatsapp1 {
+  width: 100%;
+  position: relative;
+  height: 90px;
+  background-image: url(./public/whatsapp@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

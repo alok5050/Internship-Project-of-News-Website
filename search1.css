@@ -1,0 +1,9 @@
+.search12 {
+  width: 100%;
+  position: relative;
+  height: 14px;
+  background-image: url(./public/search1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

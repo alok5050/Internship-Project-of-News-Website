@@ -1,0 +1,1136 @@
+.free-trial3 {
+  position: absolute;
+  top: 6px;
+  left: 229px;
+  display: inline-block;
+  width: 62px;
+  height: 13px;
+}
+.login-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  width: 59px;
+  height: 24px;
+}
+.login-item,
+.login4,
+.login5 {
+  position: absolute;
+}
+.login5 {
+  top: 8px;
+  left: 17px;
+  display: inline-block;
+  width: 33px;
+  height: 8px;
+}
+.login4 {
+  top: 0;
+  left: 285px;
+  width: 59px;
+  height: 24px;
+  color: var(--color-firebrick-100);
+}
+.open-the-hindu1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  display: inline-block;
+  width: 102px;
+  height: 12px;
+}
+.open-app,
+.up-left-icon1 {
+  position: absolute;
+  height: 16px;
+}
+.up-left-icon1 {
+  top: 0;
+  left: 102px;
+  width: 20px;
+  object-fit: contain;
+}
+.open-app {
+  top: 1px;
+  left: 0;
+  width: 122px;
+  font-size: var(--font-size-3xs);
+}
+.upper {
+  width: 344px;
+  position: relative;
+  height: 24px;
+}
+.the-hindu-logonew-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  width: 61px;
+  height: 21px;
+  object-fit: cover;
+}
+.hindu6,
+.the6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 46px;
+  height: 24px;
+}
+.hindu6 {
+  left: 107px;
+  width: 73px;
+  height: 27px;
+}
+.subscribe-child,
+.the-hindu5 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 180px;
+  height: 27px;
+}
+.subscribe-child {
+  top: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-firebrick-100);
+  border: 1px solid var(--color-firebrick-100);
+  box-sizing: border-box;
+  width: 90px;
+  height: 21px;
+}
+.subscribe4 {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+  font-weight: 900;
+  display: inline-block;
+  width: 55px;
+  height: 10px;
+}
+.subscribe3 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 90px;
+  height: 21px;
+}
+.menu-icon3,
+.sub-log {
+  position: absolute;
+  top: 0;
+  height: 33px;
+}
+.menu-icon3 {
+  left: 94px;
+  width: 25px;
+  object-fit: cover;
+}
+.sub-log {
+  left: 225px;
+  width: 119px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+}
+.middle {
+  width: 344px;
+  position: relative;
+  height: 33px;
+  font-size: var(--font-size-xl);
+}
+.header-child {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 1px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.olympics-data1,
+.search5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 198px;
+  height: 11px;
+}
+.search5 {
+  width: 44px;
+  height: 12px;
+}
+.search-icon2,
+.search4 {
+  position: absolute;
+  height: 13px;
+}
+.search-icon2 {
+  top: 0;
+  left: 50px;
+  width: 13px;
+  object-fit: contain;
+}
+.search4 {
+  top: 1px;
+  left: 275px;
+  width: 63px;
+  color: var(--color-black);
+}
+.lower {
+  width: 338px;
+  position: relative;
+  height: 14px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-firebrick-100);
+}
+.header1 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.x250-87140894159933948-1-icon1 {
+  max-width: 100%;
+  overflow: hidden;
+  height: 256px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.advertisement1,
+.x250-87140894159933948-1-icon1 {
+  align-self: stretch;
+  position: relative;
+}
+.ad {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-300);
+  font-family: var(--font-merriweather-sans);
+}
+.line-left-child4 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-lightgray-300);
+  box-sizing: border-box;
+  height: 1px;
+}
+.line-left2 {
+  width: 118px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+}
+.world17 {
+  position: relative;
+  opacity: 0.9;
+}
+.line-parent1,
+.world16 {
+  display: flex;
+  justify-content: flex-start;
+}
+.line-parent1 {
+  width: 115px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+}
+.world16 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xs);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-firebrick-200);
+}
+.world18 {
+  text-decoration: underline;
+  color: var(--color-dimgray-300);
+}
+.areas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  font-family: var(--font-merriweather-sans);
+}
+.black-sea-port {
+  margin: 0;
+}
+.mayor-of-russias-container {
+  width: 323px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+}
+.t105735z-597654329-rc2m9x9x4fb-icon1 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 184px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.main-topic {
+  width: 333px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 13px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-merriweather);
+}
+.news-section-child {
+  width: 329px;
+  position: relative;
+  border-top: 4px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  height: 4px;
+}
+.world19 {
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  text-decoration: none;
+}
+.world-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  z-index: 0;
+}
+.fire-at-shopping1 {
+  font-weight: 600;
+}
+.fire-at-shopping-container1 {
+  width: 338px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.fire-at-shopping-centre-in-chi-container,
+.world-wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.fire-at-shopping-centre-in-chi-container {
+  align-self: stretch;
+  height: 134px;
+  box-sizing: border-box;
+  z-index: 1;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display);
+}
+.world-wrapper1 {
+  z-index: 2;
+}
+.us-president-joe1 {
+  width: 335px;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.us-president-joe-biden-tests-container {
+  align-self: stretch;
+  height: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  z-index: 3;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display);
+}
+.sec2-item {
+  width: 324px;
+  position: absolute;
+  margin: 0 !important;
+  top: 155.5px;
+  left: 8.5px;
+  border-top: 1px solid var(--color-silver-200);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 4;
+}
+.sec21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-merriweather-sans);
+}
+.top-democrat-adam1 {
+  width: 310px;
+  position: relative;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  height: 141px;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.top-democrat-adam-schiff-calls-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.afp-364b7a8-1-icon1 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 193px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.sec31 {
+  width: 343px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.iit-delhi-expert-questions1 {
+  align-self: stretch;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  height: 65px;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.frame-child24,
+.frame-child25 {
+  position: relative;
+  border-top: 1px solid var(--color-lightgray-100);
+  box-sizing: border-box;
+  height: 1px;
+}
+.frame-child24 {
+  width: 226px;
+}
+.frame-child25 {
+  align-self: stretch;
+}
+.line-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-3xs);
+}
+.line-frame,
+.line-parent2,
+.point3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.line-parent2 {
+  align-self: stretch;
+  align-items: center;
+  gap: var(--gap-35xl);
+}
+.point3 {
+  width: 241.9px;
+  margin: 0 !important;
+  position: absolute;
+  top: 38px;
+  right: 9.7px;
+  height: 114px;
+  align-items: flex-start;
+  gap: var(--gap-30xl);
+  z-index: 0;
+}
+.blank-line44 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.blank-line45 {
+  margin: 0;
+  font-size: var(--font-size-base);
+}
+.container {
+  width: 62.9px;
+  margin: 0 !important;
+  position: absolute;
+  top: 50px;
+  right: 235.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  z-index: 1;
+  font-size: var(--font-size-21xl);
+}
+.descended1 {
+  text-decoration: underline;
+}
+.searching-for-luca-container1 {
+  width: 225px;
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.point4 {
+  width: 237px;
+  margin: 0 !important;
+  position: absolute;
+  top: 203px;
+  right: 14.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.t1 {
+  font-size: var(--font-size-base);
+}
+.top-news-of-container1 {
+  width: 240px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.point5,
+.trnding1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.point5 {
+  width: 251.6px;
+  top: 144px;
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.trnding1 {
+  width: 149px;
+  top: 0;
+  right: 149px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  color: var(--color-rosybrown-300);
+  height: 48px;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.trending-page {
+  width: 298px;
+  height: 331px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  font-size: var(--font-size-xl);
+}
+.israel-palestine-conflict1 {
+  position: relative;
+  font-weight: 600;
+}
+.israel-conflict-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  color: #a53434;
+}
+.t032306z-406962207-rc22y8ao77l-icon1 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 187px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.t032306z-406962207-rc22y8ao77l-container {
+  width: 335px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.reuters2 {
+  margin: 0;
+  font-size: var(--font-size-sm);
+}
+.air-attack-leaves-container1 {
+  width: 332px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.air-attack-leaves-1-dead-at-l-container,
+.se13 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.air-attack-leaves-1-dead-at-l-container {
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.se13 {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.world21 {
+  margin: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-rosybrown-500);
+}
+.experts-question-arrests-for-w-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.israel-news {
+  width: 352px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.around-the-globe-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  font-size: var(--font-size-13xl);
+  color: var(--color-firebrick-100);
+}
+.a-season-of-polls-meera-sriniv-container,
+.around-glob-news-inner {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  z-index: 0;
+}
+.a-season-of-polls-meera-sriniv-container {
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: -10.5px;
+  align-items: center;
+  justify-content: center;
+}
+.around-glob-news-inner {
+  align-self: stretch;
+  height: 134px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  position: relative;
+}
+.world23 {
+  margin: 0;
+  color: var(--color-dimgray-200);
+}
+.world25 {
+  margin: 0;
+  color: var(--color-rosybrown-400);
+}
+.world-sri-lanka-to-lift-ban-on-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  font-size: var(--font-size-xl);
+}
+.around-glob-news-child,
+.around-glob-news-item {
+  width: 334px;
+  position: absolute;
+  margin: 0 !important;
+  top: 132px;
+  left: -2px;
+  border-top: 4px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  height: 4px;
+  z-index: 2;
+}
+.around-glob-news-item {
+  top: 551px;
+  z-index: 3;
+}
+.around-glob-news,
+.news-section {
+  width: 330px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.news-section {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 366px;
+  gap: 26px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-playfair-display);
+}
+.the-hindu-logonew-3-icon {
+  width: 107px;
+  position: relative;
+  height: 37px;
+  object-fit: cover;
+}
+.hindu7 {
+  width: 116px;
+  position: relative;
+  display: inline-block;
+  height: 37px;
+  flex-shrink: 0;
+}
+.the-hindu-heading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-13xl);
+}
+.google-playstore-icon3 {
+  width: 39.9px;
+  position: relative;
+  height: 68.1px;
+  object-fit: cover;
+}
+.get-it-on2 {
+  width: 53.3px;
+  position: relative;
+  display: inline-block;
+  height: 29.2px;
+  flex-shrink: 0;
+}
+.google-play3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-smi);
+}
+.frame2,
+.get-it-on-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.get-it-on-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5.1px;
+}
+.frame2 {
+  width: 153.7px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  height: 70.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.apple-logo-icon3 {
+  width: 38.9px;
+  position: relative;
+  height: 61.3px;
+  object-fit: cover;
+}
+.app-store3,
+.download-on-the3 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.download-on-the3 {
+  width: 80.5px;
+  height: 16.5px;
+}
+.app-store3 {
+  align-self: stretch;
+  font-size: var(--font-size-mini);
+  text-align: center;
+  height: 23.4px;
+}
+.download-on-the-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.8px;
+}
+.apple-store,
+.download-on-mob {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.apple-store {
+  width: 153.7px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  height: 70.1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  gap: 13.6px;
+}
+.download-on-mob {
+  width: 329.5px;
+  justify-content: space-between;
+  margin-left: -137px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.the-hindu6 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-merriweather-sans);
+}
+.digital-subscription-subscribe-container,
+.the-hindu-about-container {
+  width: 164px;
+  position: relative;
+  display: inline-block;
+  height: 241px;
+  flex-shrink: 0;
+}
+.digital-subscription-subscribe-container {
+  width: 168px;
+  height: 228px;
+}
+.about-the-hindu {
+  width: 333px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: -137px;
+}
+.contact-us2 {
+  font-size: var(--font-size-xl);
+  font-family: var(--font-merriweather-sans);
+}
+.blank-line80,
+.contact-us2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.contact-us-contact-container {
+  position: relative;
+}
+.about-contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  margin-left: -137px;
+}
+.frame-child26 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 3px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.footer-for-android-inner {
+  width: 368px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  margin-left: -137px;
+}
+.others-product-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.latest-news-national-container,
+.roofandfloor-step-images-container {
+  width: 158px;
+  position: relative;
+  display: inline-block;
+  height: 294px;
+  flex-shrink: 0;
+}
+.roofandfloor-step-images-container {
+  width: 159px;
+}
+.about-other-product,
+.topic1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.topic1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  gap: 21px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-merriweather);
+}
+.about-other-product {
+  width: 327px;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: -137px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-merriweather-sans);
+}
+.link-child {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 31px;
+}
+.linkedin-icon3 {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 32px;
+  height: 53px;
+  object-fit: cover;
+}
+.link {
+  width: 41px;
+  position: relative;
+  height: 53px;
+}
+.twitterx-icon3 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  width: 27px;
+  height: 50px;
+  object-fit: cover;
+}
+.tweet {
+  width: 41px;
+  position: relative;
+  height: 50px;
+}
+.link-parent {
+  width: 87px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.spotify-icon3 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 29px;
+  height: 53px;
+  object-fit: cover;
+}
+.youtube-child {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 41px;
+  height: 31px;
+}
+.youtube-icon3 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 32px;
+  height: 52px;
+  object-fit: cover;
+}
+.youtube {
+  width: 41px;
+  position: relative;
+  height: 52px;
+}
+.facebook-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 31px;
+  height: 55px;
+  object-fit: cover;
+}
+.facebok {
+  width: 41px;
+  position: relative;
+  height: 55px;
+}
+.frame-parent,
+.spotify-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-parent {
+  gap: var(--gap-2xs);
+}
+.whatsapp-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 41px;
+  height: 31px;
+}
+.whatsapp-icon3 {
+  position: absolute;
+  top: 0.9px;
+  left: 9px;
+  width: 23px;
+  height: 24px;
+  object-fit: cover;
+}
+.whatsapp {
+  width: 41px;
+  position: relative;
+  height: 31px;
+}
+.footer-icon {
+  width: 276px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+  margin-left: -137px;
+}
+.node {
+  white-space: pre-wrap;
+}
+.privacy-policy {
+  color: inherit;
+}
+.terms-of-use-privacy-poli {
+  margin: 0;
+  font-size: var(--font-size-mini);
+}
+.terms-of-use-container {
+  width: 343px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.footer-for-android,
+.term-and-condition {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.term-and-condition {
+  justify-content: center;
+  padding: var(--padding-3xs);
+  margin-left: -137px;
+  font-size: var(--font-size-xl);
+}
+.footer-for-android {
+  position: absolute;
+  top: 3629px;
+  left: 18px;
+  width: 330px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  font-size: var(--font-size-mini);
+}
+.android-large-1-world-secti {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-black);
+  font-family: var(--font-merriweather);
+}
